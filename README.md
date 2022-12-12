@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @atmosbear
+- Hey! I’m @atmosbear, but my real name is Nate. I'm looking to get hired as a front-end or full stack web developer!
 - 👀 I’m interested in front end web development using react, svelte, etc; also, all things javascript! This GitHub page is a tiny bit sparse honestly but that's just because I am still working on it! :)
 - You'll notice that I have a lot of templates - that's because I love starting with a minimalist fresh start, so for each tool I've learned, I created my own personal minimal template.
 - My actual projects that aren't templates are pinned!
